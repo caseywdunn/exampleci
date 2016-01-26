@@ -8,6 +8,8 @@ Maintainer: Casey Dunn <casey_dunn@brown.edu>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
 LazyData: TRUE
+Collate: 
+	'hello.R'
 Imports:
     ggplot2
 Suggests:

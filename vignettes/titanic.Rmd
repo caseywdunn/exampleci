@@ -1,5 +1,11 @@
 # Popular understanding of the Titanic catastrophe
 
+```{r}
+
+library(exampleci)
+
+```
+
 ## Introduction
 
 Everyone knows that the Titanic sank, but there is generally little sense of the magnitude 
@@ -13,6 +19,7 @@ The vector representation of guesses at the total number of passengers that died
 
 
 ```{r}
+
 guesses <- c(1,1,1)
 
 ```
